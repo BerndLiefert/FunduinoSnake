@@ -23,7 +23,7 @@ Benötigte Hardware:
 Bibliothek zip File herunterladen und in der Arduino IDE hinzufügen und auswählen (sketch > add library), compilieren und hochladen.
 
 ### Bugs
-Schlange hält an, Körper erscheint erst zu spät bei verlassen/erscheinen auf dem Bildschirms.
+Schlange hält an, Körper erscheint erst zu spät bei verlassen/erscheinen auf dem Bildschirm.
 
 [ArduinoUno]: <https://www.reichelt.de/arduino-uno-rev-3-dip-variante-atmega328-usb-arduino-uno-dip-p154902.html>
 [Nokia5110LCD]: <https://www.amazon.de/gp/product/B00MTH3AEK>
