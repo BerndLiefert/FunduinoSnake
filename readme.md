@@ -1,6 +1,6 @@
 # Funduino Snake
 
-![](./files/img/funduino.jpg "Funduino Shield")
+![](./files/img/snake.jpg "Funduino Shield")
 
 ### Beschreibung
 
